@@ -1,3 +1,3 @@
 ### Hi there!
 
-<a href="https://mail.naver.com" target="_blank"><img src="https://img.shields.io/badge/red?style=plastic&logo=Gmail&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
