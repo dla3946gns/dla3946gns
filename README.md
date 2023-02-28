@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome! This is Mhlim's Repository!%20render&fontSize=90" />
 
 ## 안녕하세요! 안드로이드 앱 개발자 임명훈입니다!
 ### 사용자에게 편리한 경험을 제공하는 개발자가 되고 싶습니다!
